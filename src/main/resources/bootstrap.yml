@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: rest-webservice-experience
+  cloud:
+    config:
+      uri: https://config-server-app.cfapps.io
+
+
